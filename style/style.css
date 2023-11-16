@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box6{
+    max-width: 1400px;
+    height: 700px;
+    background-color: rgb(193, 189, 189);
+}
+.box4{
+    width: 480px;
+    height: 680px;
+    border: 1px solid;
+    background-color: white;
+    margin-left: 400px;
+}
+.box5{
+    margin-left: 10px;
+}
+button{
+    width: 60px;
+    height: 30px;
+    border: 1px solid;
+    margin-left: 10px;
+}
